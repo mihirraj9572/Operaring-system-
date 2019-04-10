@@ -35,9 +35,9 @@ x10=1750;
 
 x11=130;
 
-printf("previos request at cylinder number %d \n",x1);
+printf("previos request at cylinder number is %d \n",x1);
 
-printf("currently serving a request at cylinder number %d \n",x2);
+printf("currently serving a request at cylinder number is %d \n",x2);
 
 dis1=x1-x2;
 
