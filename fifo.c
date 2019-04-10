@@ -5,7 +5,7 @@ int main()
 {
 
 int x1,x2,x3,x4,x5,x6,x7,x8,x9,x10,x11;
-//for declearing diffierent cylinder numbers
+//for declearing diffierent cylinder number
 
 int dis1,dis2,dis3,dis4,dis5,dis6,dis7,dis8,dis9,dis10,dis11;
 //distance between two cylinders
